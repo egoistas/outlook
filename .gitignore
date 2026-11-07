@@ -1,0 +1,8 @@
+.env
+secrets/
+certs/*
+!certs/.gitkeep
+backups/
+*.tar
+*.tar.gz
+__pycache__/
