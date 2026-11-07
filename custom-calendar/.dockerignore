@@ -1,0 +1,6 @@
+.env
+certs
+__pycache__
+.pytest_cache
+tests
+*.sqlite3
