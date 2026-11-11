@@ -1,0 +1,8 @@
+.env
+certs/
+__pycache__/
+.pytest_cache/
+*.sqlite3
+
+*.tar
+*.tar.gz
